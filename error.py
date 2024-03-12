@@ -1,3 +1,4 @@
+# chatgpt link: https://chat.openai.com/share/759bce15-9ccc-4720-9c44-3954e75c26ea
 import json, csv, re
 file_path = "logs.json"
 with open(file_path,'r') as file:
